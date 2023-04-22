@@ -17,6 +17,12 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/cart" element={<Cart />} />
           </Routes>
+          <footer>
+            <p>Created by Peter Martens</p>
+            <a href="https://github.com/petermartens98/React-Ecommerce-Site">
+            <img className="github-logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" />
+            </a>
+          </footer>
         </Router>
       </ShopContextProvider>
     </div>

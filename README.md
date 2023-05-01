@@ -1,6 +1,6 @@
 # React-Ecomerce-Site
 Interactive frontend for an ecommerce website, built using react.js.
-
+#### Live Deployment: coming very soon
 #### Video Demo V1: coming very soon
 
 ## Home Page

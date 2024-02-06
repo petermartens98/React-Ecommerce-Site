@@ -24,7 +24,7 @@ export const Navbar = () => {
           Contact
         </Link>
         <Link to="/cart" id="cartlink" className={location.pathname === "/cart" ? "active-link" : ""}>
-          <ShoppingCart size={32} />
+          <ShoppingCart size={32} aria-label="Shopping Cart" />
         </Link>
       </div>
     </div>
